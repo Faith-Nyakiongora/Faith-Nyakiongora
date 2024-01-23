@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faith-nyakiongora&label=Profile%20views&color=0e75b6&style=flat" alt="faith-nyakiongora" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faith-nyakiongora" alt="faith-nyakiongora" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJs, Python, Flask**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faith-nyakiongora&show_icons=true&locale=en&layout=compact" alt="faith-nyakiongora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faith-nyakiongora&show_icons=true&locale=en" alt="faith-nyakiongora" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faith-nyakiongora&" alt="faith-nyakiongora" /></p>
